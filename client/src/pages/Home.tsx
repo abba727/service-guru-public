@@ -58,7 +58,7 @@ function Nav() {
           </div>
         </div>
         <div className="sg-nav-right">
-          <a className="sg-nav-login" href="#" style={{ color: "var(--sg-ink-soft)" }}>Sign in</a>
+          <a className="sg-nav-login" href="https://secure.serviceguru.app" style={{ color: "var(--sg-ink-soft)" }}>Sign in</a>
           <a className="sg-btn sg-btn-primary" href="#">
             Book a demo <span className="arrow"><Icon name="arrow" size={16} /></span>
           </a>
