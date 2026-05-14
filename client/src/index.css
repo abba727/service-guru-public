@@ -194,6 +194,12 @@
   font-size: 17px;
   letter-spacing: -0.01em;
 }
+.sg-logo-img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  display: block;
+}
 .sg-logo-mark {
   width: 28px;
   height: 28px;

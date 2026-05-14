@@ -46,7 +46,7 @@ function Nav() {
       <div className="sg-container sg-nav-inner">
         <div className="sg-nav-left">
           <a className="sg-logo" href="#">
-            <span className="sg-logo-mark">S</span>
+            <img src="/manus-storage/logo_4a44b036.png" alt="Service Guru" className="sg-logo-img" />
             <span>Service Guru</span>
           </a>
           <div className="sg-nav-links">
@@ -574,7 +574,7 @@ function Footer() {
         <div className="sg-footer-grid">
           <div className="sg-footer-brand">
             <a className="sg-logo" href="#">
-              <span className="sg-logo-mark">S</span>
+              <img src="/manus-storage/logo_4a44b036.png" alt="Service Guru" className="sg-logo-img" />
               <span>Service Guru</span>
             </a>
             <p>The operating system for property management. Built in Brooklyn, deployed across the eastern seaboard.</p>
