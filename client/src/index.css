@@ -936,3 +936,41 @@
   .sg-cta-final { margin: 0 16px; padding: 60px 28px; }
   .sg-hero { padding: 40px 0 60px; }
 }
+
+/* ============================================================
+   Prose / Legal page typography
+   ============================================================ */
+.sg-prose {
+  font-size: 15px;
+  line-height: 1.75;
+  color: var(--sg-ink);
+}
+.sg-prose p { margin: 0 0 20px; }
+.sg-prose h2 {
+  font-family: "Geist", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--sg-navy);
+  margin: 40px 0 12px;
+  padding-top: 8px;
+  border-top: 1px solid var(--sg-line-cool);
+}
+.sg-prose h3 {
+  font-family: "Geist", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--sg-navy);
+  margin: 24px 0 8px;
+}
+.sg-prose ul { margin: 0 0 20px; padding-left: 24px; }
+.sg-prose ul li { margin-bottom: 8px; }
+.sg-prose a { color: var(--sg-blue); text-decoration: underline; text-underline-offset: 2px; }
+.sg-prose a:hover { opacity: 0.8; }
+.sg-prose address {
+  background: var(--sg-cream);
+  border-left: 3px solid var(--sg-blue);
+  padding: 20px 24px;
+  border-radius: 0 8px 8px 0;
+  margin-top: 8px;
+}

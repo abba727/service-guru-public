@@ -614,8 +614,8 @@ function Footer() {
           <div className="sg-footer-col">
             <h4>Legal</h4>
             <ul>
-              <li><a href="#">Privacy</a></li>
-              <li><a href="#">Terms</a></li>
+              <li><a href="/privacy">Privacy</a></li>
+              <li><a href="/terms">Terms</a></li>
               <li><a href="#">Security</a></li>
               <li><a href="#">DPA</a></li>
             </ul>
@@ -624,8 +624,8 @@ function Footer() {
         <div className="sg-footer-bottom">
           <div>© 2026 Service Guru, Inc. All rights reserved.</div>
           <div className="legal">
-            <a href="#">Privacy</a>
-            <a href="#">Terms</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/terms">Terms</a>
             <a href="#">Cookies</a>
           </div>
         </div>
